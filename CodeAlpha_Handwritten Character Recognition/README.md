@@ -4,9 +4,6 @@ A deep learning web app that recognizes handwritten letters (A–Z) in real time
 
 ---
 
-## Demo
-
-Draw any capital letter on the canvas → click Predict → get instant results with confidence scores.
 
 ---
 
