@@ -118,7 +118,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[Click here to try the app](#) ← *(add Streamlit Cloud link after deployment)*
+[Click here to try the app](https://creditscoringmodel-eenxhfpk8xq5rxozz9bbuf.streamlit.app/) 
 
 ---
 
